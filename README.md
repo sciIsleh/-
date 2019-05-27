@@ -6,7 +6,7 @@
 from tkinter import *
 from tkinter import ttk
 #
-#функции(def)
+#def
 class MyCounter:
     def __init__(self, value=None):
         self.value = value or 0
